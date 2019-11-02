@@ -1,4 +1,4 @@
-var mvs = require("Matchvs");
+// var mvs = require("Matchvs");
 cc.Class({
     extends: cc.Component,
 
