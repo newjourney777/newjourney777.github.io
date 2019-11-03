@@ -8,3 +8,4 @@ var Site = /** @class */ (function () {
 }());
 var obj = new Site();
 obj.name();
+//aaaaa
